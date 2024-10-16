@@ -13,7 +13,7 @@ namespace POO_Dio.Models
             saldo = saldoInicial;
         }
         public int NumeroConta { get; set; }
-        private decimal saldo; //Encapsulamento -> ninguem consegue alterar e não e visivel fora da classe, e se altera por metodos dentro da propria classe 
+        private decimal saldo; //Encapsulamento -> ninguem consegue alterar e não e visivel fora da classe, e se altera por metodos public dentro da propria classe 
 
         public void RealizarSaque(decimal valor)
         {
