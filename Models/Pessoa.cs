@@ -10,7 +10,7 @@ namespace POO_Dio.Models
         public string Nome { get; set; }
         public int Idade { get; set; }
 
-        public void Apresentar()
+        public virtual void Apresentar() // virtual -> classe filha pode usar do polimorfismo para mudar esse metodo se assim desejar
         {
             Console.WriteLine($"Olá meu nome é: {Nome} e tenho {Idade} anos");
         }
