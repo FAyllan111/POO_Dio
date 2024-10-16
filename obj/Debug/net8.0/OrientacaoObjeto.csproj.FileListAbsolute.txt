@@ -1,0 +1,15 @@
+C:\Users\Francisco.Esilva\Documents\POO_Dio\obj\Debug\net8.0\OrientacaoObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francisco.Esilva\Documents\POO_Dio\obj\Debug\net8.0\OrientacaoObjeto.AssemblyInfoInputs.cache
+C:\Users\Francisco.Esilva\Documents\POO_Dio\obj\Debug\net8.0\OrientacaoObjeto.AssemblyInfo.cs
+C:\Users\Francisco.Esilva\Documents\POO_Dio\obj\Debug\net8.0\OrientacaoObjeto.csproj.CoreCompileInputs.cache
+C:\Users\Francisco.Esilva\Documents\POO_Dio\obj\Debug\net8.0\OrientacaoObjeto.sourcelink.json
+C:\Users\Francisco.Esilva\Documents\POO_Dio\bin\Debug\net8.0\OrientacaoObjeto.exe
+C:\Users\Francisco.Esilva\Documents\POO_Dio\bin\Debug\net8.0\OrientacaoObjeto.deps.json
+C:\Users\Francisco.Esilva\Documents\POO_Dio\bin\Debug\net8.0\OrientacaoObjeto.runtimeconfig.json
+C:\Users\Francisco.Esilva\Documents\POO_Dio\bin\Debug\net8.0\OrientacaoObjeto.dll
+C:\Users\Francisco.Esilva\Documents\POO_Dio\bin\Debug\net8.0\OrientacaoObjeto.pdb
+C:\Users\Francisco.Esilva\Documents\POO_Dio\obj\Debug\net8.0\OrientacaoObjeto.dll
+C:\Users\Francisco.Esilva\Documents\POO_Dio\obj\Debug\net8.0\refint\OrientacaoObjeto.dll
+C:\Users\Francisco.Esilva\Documents\POO_Dio\obj\Debug\net8.0\OrientacaoObjeto.pdb
+C:\Users\Francisco.Esilva\Documents\POO_Dio\obj\Debug\net8.0\OrientacaoObjeto.genruntimeconfig.cache
+C:\Users\Francisco.Esilva\Documents\POO_Dio\obj\Debug\net8.0\ref\OrientacaoObjeto.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Francisco.Esilva\\Documents\\POO_Dio\\OrientacaoObjeto\\OrientacaoObjeto.csproj": {}
+    "C:\\Users\\Francisco.Esilva\\Documents\\POO_Dio\\OrientacaoObjeto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Francisco.Esilva\\Documents\\POO_Dio\\OrientacaoObjeto\\OrientacaoObjeto.csproj": {
+    "C:\\Users\\Francisco.Esilva\\Documents\\POO_Dio\\OrientacaoObjeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Francisco.Esilva\\Documents\\POO_Dio\\OrientacaoObjeto\\OrientacaoObjeto.csproj",
+        "projectUniqueName": "C:\\Users\\Francisco.Esilva\\Documents\\POO_Dio\\OrientacaoObjeto.csproj",
         "projectName": "OrientacaoObjeto",
-        "projectPath": "C:\\Users\\Francisco.Esilva\\Documents\\POO_Dio\\OrientacaoObjeto\\OrientacaoObjeto.csproj",
+        "projectPath": "C:\\Users\\Francisco.Esilva\\Documents\\POO_Dio\\OrientacaoObjeto.csproj",
         "packagesPath": "C:\\Users\\Francisco.Esilva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Francisco.Esilva\\Documents\\POO_Dio\\OrientacaoObjeto\\obj\\",
+        "outputPath": "C:\\Users\\Francisco.Esilva\\Documents\\POO_Dio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Francisco.Esilva\\AppData\\Roaming\\NuGet\\NuGet.Config"
