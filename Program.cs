@@ -1,5 +1,10 @@
 ﻿using POO_Dio.Models;
 
+
+/*
+
+-> PILARES POO 
+
 Pessoa p1 = new Pessoa(); // cria o objeto da classe e classe é o molde
 
 p1.Nome = "Frisk";
@@ -29,3 +34,10 @@ pr1.Nome = "Professor";
 pr1.Idade = 99;
 pr1.Salario = 34324;
 pr1.Apresentar();
+
+*/
+
+Corrente c = new Corrente();
+
+c.Creditar(5888);
+c.ExibirSaldo();
