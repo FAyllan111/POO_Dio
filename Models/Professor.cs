@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace POO_Dio.Models
 {
-    public class Professor : Pessoa
+    public class Professor : Pessoa // selar classes sealed -> classes nao geram herança para as demais
     {
         public Professor(string nome) : base(nome)
         {
