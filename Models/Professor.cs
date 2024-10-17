@@ -7,6 +7,10 @@ namespace POO_Dio.Models
 {
     public class Professor : Pessoa
     {
+        public Professor(string nome) : base(nome)
+        {
+            
+        } // construtor por heranca
         public decimal Salario { get; set; }
 
         public override void Apresentar()

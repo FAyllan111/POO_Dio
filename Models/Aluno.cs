@@ -7,6 +7,10 @@ namespace POO_Dio.Models
 {
     public class Aluno : Pessoa // herança -> herdar as informações comum de outras classes 
     {
+        public Aluno(string nome) : base(nome) // passando os nomes para classe pai
+        {
+
+        }
         public double Nota { get; set; } //propriedade exclusiva de aluno
 
         public override void Apresentar()// mudança do apresentar usando o override para sobrescrever 

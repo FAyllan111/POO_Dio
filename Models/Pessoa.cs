@@ -5,8 +5,14 @@ using System.Threading.Tasks;
 
 namespace POO_Dio.Models
 {
+
+
     public class Pessoa // EX abstração -> trazer o que uma pessoa vai ter
     {
+        public Pessoa(string nome)
+        {
+            Nome = nome;
+        }
         public string Nome { get; set; }
         public int Idade { get; set; }
 
